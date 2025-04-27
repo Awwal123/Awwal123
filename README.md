@@ -9,7 +9,7 @@
 
 - 👨‍💻 My portfolio [https://ameer-webdev.vercel.app/](https://ameer-webdev.vercel.app/)
 
-- 💬 Ask me about **React, Javascript, Gsap**
+- 💬 Ask me about **React, Javascript, React Native, Typescript **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
